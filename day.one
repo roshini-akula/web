@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--this is a comment-->
+<html>
+    <head>
+        <title>website</title>
+    </head>
+    <body>
+        <h1>heading</h1>
+        <p>about paragraph</p>
+        <img src="cat.dow.jfif" alt="catimage" title="image"><br>
+        <b>bold</b><br>
+        <strong>important</strong><br>
+        <i>italic</i><br>
+        <em>emphasized</em><br>
+        <mark>marked</mark><br>
+        <small>small</small><br>
+        <del>deleted</del><br>
+        <ins>inserted</ins><br>
+        <sub>subscript</sub><br>
+        <sup>superscript</sup><br>
+        <p><q>Build a future where people live in harmony with nature.</q></body></p><br>
+        <p>The<abbr title="World Health Organization">WHO</abbr></p>
+        <address>
+            written by john doe.<br>
+            visit us at.<br>
+            example.com<br>
+            USA
+        </address>
+        <p><cite>The Scream</cite>by edvard Munch. Paintedf in 1893</p>
+        <bdo dir="rtl">This text will be written from right to left</bdo><br>
+        <bdo dir="ltr">This text will be written from left to right</bdo><br>
+        <a href="https://www.google.com/" target="_blank">click me to open google</a>
+        <a href="https://paruluniversity.ac.in/" <img src=""
+    </body>
+</html>
