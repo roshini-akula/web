@@ -30,6 +30,90 @@
         <bdo dir="rtl">This text will be written from right to left</bdo><br>
         <bdo dir="ltr">This text will be written from left to right</bdo><br>
         <a href="https://www.google.com/" target="_blank">click me to open google</a>
-        <a href="https://paruluniversity.ac.in/" <img src=""
+        <a href="https://paruluniversity.ac.in/" <img src="university"></a>
+        <video width="320px" controls autoplay muted>
+            <source src="video.dow.mp4" type="video/mp4">
+        </video>
+        <table border="1" cellpadding="8">
+            <tr>
+                <th>Roll no</th>
+                <th>Name</th>
+                <th>Course</th>
+            </tr>
+            <tr>
+            <td>1</td>
+            <td>roshini</td>
+            <td>AIML</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>abhi</td>
+                <td>AIDS</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>amar</td>
+                <td>AI</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>bunty</td>
+                <td>robotics</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>hasini</td>
+                <td>AIDS</td>
+            </tr>
+        </table>
+        <p>cheese sandwich</p>
+        <ul>
+            <li>cheese</li>
+            <li>vegetables</li>
+            <li>bread</li>
+
+        </ul>
+        <p>Subjects in sem</p>
+        <ol>
+            <li>1st</li>
+        <ol>
+            <li>calculus</li>
+            <li>PPS</li>
+        </ol>
+            <li>2nd</li>
+        <ol>
+            <li>PCS</li>
+            <li>Physics</li>
+            <li>FCS</li>
+        </ol>
+        </ol>
+        <p style="color:green; background-color:pink; font-size:22px; width:300px; height:300px">A paragraph is a group of sentences focused on a single topic, typically
+           of a topic sentence, supporting details, and a concluding sentence.
+           For example, a paragraph about the value of time could state that
+           every moment matters for success, that wise time management prevents.
+        </p>
+        <h1 style="color: burlywood; font-size: larger; width: max-content; text-align: center;"><b>MY COLLEGE</b></h1>
+        <P style="color:skyblue; background-color: gray; font-size:18px; width:200px; height:300px; padding: 20px;">
+            Parul University is a private, multidisciplinary university in Vadodara, Gujarat, established in 2015. It is recognized for its extensive academic
+            offerings, strong placement record, and diverse student body from across India and over 50 countries. The university offers a wide range of
+            undergraduate, postgraduate, and doctoral programs, and its facilities include extensive sports and residential complexes, a research 
+            center, and modern classrooms</P>
+
+            <img src="Parul University.IMAGE.jpg" alt="parul university">
+            <dl>
+                <dt>HTML</dt>
+                <dd>hyper text markup language</dd>
+            </dl>
+            <dl>
+                <dt>CSS</dt>
+                <dd>cascading style sheets</dd>
+            </dl>
+            <a href="https://www.instagram.com/paruluniversity/?hl=en"><img src="download.insta.jfif" width="50" height="50"></a><br><br>
+            <a href="https://in.linkedin.com/school/paruluniversity/,"><img src="linkedin.png" width="50" height="50"></a><br><br>
+            <iframe src="https://en.wikipedia.org/wiki/URL"></iframe>
+            <footer>&copy parul university</footer>
+            
+    </body>
+</html>
     </body>
 </html>
