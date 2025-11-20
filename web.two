@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lamg="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"content="width=device-width,initial-scale=1">
+        <title>E-COMMERCE</title>
+        <meta name="description" content="HTML">
+        <link rel="stylesheet" href="color.css">
+    </head>
+    <body>
+        <header>
+            <h1>Fashion store</h1>
+        </header>
+        <nav class="a">
+            <a href="#">Home</a>
+            <a href="#">Men</a>
+            <a href="#">Women</a>
+            <a href="#">Kid</a>
+        </nav>
+        <img src="backgroung.jpg" width="1500" height="300">
+        <section class="one">
+        <div class="product">
+            <img src="t-shirt.jpg" height="400" width="400" alt="t-shirt">
+            <h3>Mens t-shirt</h3>
+            <p>$2</p>
+            <button>Buy now</button>
+            <button>add to cart</button></div>
+            <div class="product">
+                <img src="Branded-r.jpg" height="400" width="300" alt="t-shirt">
+                <h3>Mens t-shirt</h3>
+                <p>$5</p>
+                <button>Buy now</button>
+                <button>add to cart</button>
+                </div>
+                <div class="product">
+                    <img src="street.re.jpg" height="400"  width="300" alt="t-shirt">
+                    <h3>Mens t-shirt</h3>
+                    <p>$4</p>
+                    <button>Buy now</button>
+                    <button>add to cart</button></div>
+                </section>
+        </div>
+    </body>
+</html>
