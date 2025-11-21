@@ -1,0 +1,69 @@
+{
+    margin: 10px;
+}
+body{
+    background-image: url("abst.avif");
+    background-size: cover;
+}
+.one{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.a{
+    background-color: peachpuff;
+    color:black;
+    text-align: end;
+    color: black;
+    text-transform: capitalize;
+}
+.home{
+    background-color: grey;
+    color:
+}
+.shirt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.font{
+    font-style: oblique;
+    text-align: left;
+}
+.fo{
+    text-align: center;
+}
+.bo{
+    text-align: right;
+}
+.do{
+    text-align: right;
+}
+.eo{
+    text-align: right;
+}
+.two{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: purple;
+    color: white;
+}
+.product2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.b{
+    color: black;
+    background-color: lightgreen;
+    font-size: larger; 
+    width: max-content; 
+    text-align: center;
+
+}
