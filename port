@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Roshini.Akula | Portfolio</title>
+  <link rel="stylesheet" href="por.css">
+</head>
+<body>
+    <div class="header-content">
+      <img src="roshiniiii.jpg" alt="Roshini" class="profile-img" />
+      <div class="intro">
+        <h1>Roshini</h1>
+        <p>Web Developer | Programmer | Tech Enthusiast</p>
+      </div>
+    </div>
+</header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#collaborations">Collaborations</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm <strong>Roshini</strong>, a dedicated web developer with a strong foundation in modern web technologies.
+      I’m currently pursuing Computer Science and love building responsive, interactive websites and apps that solve
+      real-world problems. I enjoy exploring new tools and turning creative ideas into real applications.</p>
+  </section>
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML5, CSS3</li>
+      <li>React.js, Express</li>
+      <li>Python, C++</li>
+      <li>Git, GitHub, VS Code</li>
+      <li>Responsive & Mobile-First Web Design</li>
+    </ul>
+  </section>
+  <section id="projects">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>1. Portfolio Website</h3>
+      <p>A sleek personal portfolio designed using HTML5, CSS3, and JavaScript to showcase skills, projects, and contact info.</p>
+      <a href="#">View Project</a>
+    </div>
+
+    <div class="project">
+      <h3>2. To-Do List App</h3>
+      <p>React-based task manager with Firebase integration for real-time updates and task persistence.</p>
+      <a href="#">View Project</a>
+    </div>
+
+    <div class="project">
+      <h3>3. Weather Forecast App</h3>
+      <p>A weather application built with OpenWeather API and Vanilla JS with intuitive UI and dynamic updates.</p>
+      <a href="#">View Project</a>
+    </div>
+  </section>
+  <section id="collaborations">
+    <h2>Collaborations</h2>
+    <p>I love collaborating with developers and designers on exciting and impactful projects. If you're interested in teaming up on open-source, hackathons, or freelance work, feel free to reach out!</p>
+  </section>
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to connect with me through the following platforms:</p>
+    <div class="contact-links">
+      <a href="mailto:roshiniakula@gmail.com">roshiniakula@gmail.com</a>
+      <a href="https://github.com/roshiniakula" target="_blank">GitHub: github.com/roshiniakula</a>
+      <a href="https://instagram.com/roshiniakula" target="_blank">Instagram: @roshiniakula</a>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2025 Roshini . All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
